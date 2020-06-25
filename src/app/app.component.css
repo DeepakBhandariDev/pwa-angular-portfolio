@@ -7,6 +7,7 @@ html {
 body {
   /* 115px is the height of my footer */
   padding-bottom: 115px;
+  height: 100%;
 }
 
 .footer{  
@@ -15,4 +16,9 @@ body {
   width: 100%;
   padding-top: 20px;
   padding-bottom: 10px;
+}
+
+.bodi{
+  background-color: #878684;
+  height: 120vh;
 }
